@@ -7,7 +7,7 @@
 #define TRUE 1
 #define FALSE 0
 
-//Imprimime matrices
+//Imprime matrices
 void imprimir(const double *matriz, int filas, int columnas) {
     for (int i = 0; i < filas; i++) {
         for (int j = 0; j < columnas; j++) {
