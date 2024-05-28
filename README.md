@@ -1,2 +1,2 @@
 # SUMMA
-SUMMA algorithm using Open MPI
+Scalable Universal Matrix Multiplication Algorithm (SUMMA) using Open MPI
